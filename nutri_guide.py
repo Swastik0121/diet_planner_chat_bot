@@ -22,7 +22,7 @@ def create_connection():
             host='localhost',     
             database='chat_history', 
             user='root',     
-            password='swastik2101'  
+            password=''  
         )
         if conn.is_connected():
             print('Connected to MySQL database')
