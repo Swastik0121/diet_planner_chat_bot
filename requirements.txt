@@ -11,6 +11,7 @@ charset-normalizer==3.3.2
 click==8.1.7
 colorama==0.4.6
 distro==1.9.0
+fpdf==1.7.2
 frozenlist==1.4.1
 gitdb==4.0.11
 GitPython==3.1.43
@@ -48,6 +49,7 @@ pydantic==2.8.2
 pydantic_core==2.20.1
 pydeck==0.9.1
 Pygments==2.18.0
+PyPDF2==3.0.1
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 pytz==2024.1
